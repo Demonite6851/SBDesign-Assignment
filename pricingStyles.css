@@ -3,7 +3,7 @@
     height:200px;
     background:burlywood;
     position:relative;
-    top:0%;
+    bottom:50%;
     left:10%;
 }
 
@@ -12,7 +12,7 @@
     height:200px;
     background:silver;
     position:relative;
-    top:0%;
+    bottom:50%;
     left:40%;
 }
 
@@ -21,7 +21,7 @@
     height:200px;
     background:gold;
     position:relative;
-    top:0%;
+    bottom:50%;
     left:70%;
 }
 
