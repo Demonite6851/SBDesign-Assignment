@@ -11,3 +11,15 @@ p {
     color:black;
     position:absolute;
 }
+
+
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:100vh;
+    background:url('') no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
