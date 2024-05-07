@@ -1,5 +1,6 @@
 .boxBronze {
-    width:100px;
+    width:200px;
+    height:200px;
     background:burlywood;
     position:relative;
     top:40%;
@@ -7,7 +8,8 @@
 }
 
 .boxSilver {
-    width:100px;
+    width:200px;
+    height:200px;
     background:silver;
     position:relative;
     top:40%;
@@ -15,7 +17,8 @@
 }
 
 .boxGold {
-    width:100px;
+    width:200px;
+    height:200px;
     background:gold;
     position:relative;
     top:40%;
