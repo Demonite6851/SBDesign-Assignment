@@ -1,6 +1,6 @@
 .boxBronze {
     width:100px;
-    color:burlywood;
+    background:burlywood;
     position:relative;
     top:40%;
     left:10%;
@@ -8,7 +8,7 @@
 
 .boxSilver {
     width:100px;
-    color:silver;
+    background:silver;
     position:relative;
     top:40%;
     left:30%;
@@ -16,7 +16,7 @@
 
 .boxGold {
     width:100px;
-    color:gold;
+    background:gold;
     position:relative;
     top:40%;
     left:50%;
