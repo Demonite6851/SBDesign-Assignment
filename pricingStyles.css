@@ -31,3 +31,13 @@
 body {
     background-color: grey;
 }
+
+.mycontainer div {
+    width:33%;  
+    float:left;
+  }
+
+  .mycontainer {
+    width:100%;
+    overflow:auto;
+  }
