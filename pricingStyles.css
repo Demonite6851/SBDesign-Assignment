@@ -3,9 +3,10 @@
     height:200px;
     background:burlywood;
     position:relative;
+    margin-top: auto;
     bottom:50%;
-    left:50%;
-    transform: translate(-50%, -50%);
+    left:0%;
+    transform: translate(-50%, 0%);
 }
 
 .boxSilver {
