@@ -4,8 +4,8 @@
     background:burlywood;
     position:relative;
     bottom:50%;
-    left:30%;
-    transform: translate(-50%, -30%);
+    left:50%;
+    transform: translate(-50%, -50%);
 }
 
 .boxSilver {
@@ -24,7 +24,8 @@
     background:gold;
     position:relative;
     bottom:50%;
-    left:70%;
+    left:50%;
+    transform: translate(-50%, -50%);
 }
 
 body {
