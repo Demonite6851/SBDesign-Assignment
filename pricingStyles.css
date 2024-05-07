@@ -13,7 +13,7 @@
     background:silver;
     position:relative;
     top:40%;
-    left:30%;
+    left:50%;
 }
 
 .boxGold {
@@ -22,7 +22,7 @@
     background:gold;
     position:relative;
     top:40%;
-    left:50%;
+    left:80%;
 }
 
 body {
