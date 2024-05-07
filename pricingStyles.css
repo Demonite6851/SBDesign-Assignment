@@ -1,33 +1,3 @@
-.boxBronze {
-    width:200px;
-    height:200px;
-    background:burlywood;
-    position:relative;
-    margin-top: 50%;
-    margin-bottom:50%;
-    transform: translate(-50%, -50%);
-}
-
-.boxSilver {
-    width:200px;
-    height:200px;
-    background:silver;
-    position:relative;
-    bottom:50%;
-    left:50%;
-    transform: translate(-50%, -50%);
-}
-
-.boxGold {
-    width:200px;
-    height:200px;
-    background:gold;
-    position:relative;
-    bottom:50%;
-    left:50%;
-    transform: translate(-50%, -50%);
-}
-
 body {
     background-color: grey;
 }
@@ -35,9 +5,9 @@ body {
 .mycontainer div {
     width:33%;  
     float:left;
-  }
+}
 
-  .mycontainer {
+.mycontainer {
     width:100%;
     overflow:auto;
-  }
+}
