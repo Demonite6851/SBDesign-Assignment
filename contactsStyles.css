@@ -1,0 +1,10 @@
+.navbar {
+    position:relative;
+}
+
+.box {
+    width:400px;
+    color:black;
+    position:absolute;
+}
+

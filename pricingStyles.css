@@ -11,3 +11,14 @@ body {
     width:100%;
     overflow:auto;
 }
+
+.navbar {
+    position:relative;
+}
+
+.box {
+    width:400px;
+    color:black;
+    position:absolute;
+}
+
