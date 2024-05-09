@@ -26,7 +26,7 @@ body{
     background-size: cover;
 }
 
-.image {
+img {
     border:none;
     width:700px;
     height:700px;
