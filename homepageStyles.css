@@ -5,9 +5,16 @@ p {
     border-color: black;
 }
 
-.navbar {
-    margin-bottom: 100%;
+.navbar a::after{
     color:white;
+    background-color: black;
+    font-size: 1.1em;
+    margin-bottom: 100%;
+}
+
+.navbar a {
+    margin-bottom: 100%;
+    color:yellow;
     background-color: black;
     font-size: 1.1em;
 }
