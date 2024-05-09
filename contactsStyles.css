@@ -8,3 +8,21 @@
     position:absolute;
 }
 
+
+.navbar a::after{
+    color:white;
+    background-color: black;
+    font-size: 1.5em;
+    margin-bottom: 100%;
+    transform:scaleX(0);
+    transition:transform 0.5s;
+    content: '';
+}
+
+.navbar a {
+    margin-bottom: 100%;
+    color:yellow;
+    background-color: black;
+    font-size: 1.1em;
+    margin-left: 20px;
+}
