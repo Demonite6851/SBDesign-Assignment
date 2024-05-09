@@ -1,6 +1,8 @@
 p {
     color:slategrey;
     background-color: whitesmoke;
+    border-style: groove;
+    border-color: black;
 }
 
 .navbar {
