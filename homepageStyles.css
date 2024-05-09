@@ -3,6 +3,7 @@ p {
     background-color: whitesmoke;
     border-style: groove;
     border-color: black;
+    margin-left: 20px;
 }
 
 .navbar a::after{
