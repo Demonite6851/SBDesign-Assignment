@@ -1,5 +1,6 @@
 p {
     color:slategrey;
+    background-color: whitesmoke;
 }
 
 .navbar {
@@ -23,3 +24,6 @@ body{
     background-size: cover;
 }
 
+.image {
+    border:none;
+}
