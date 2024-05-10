@@ -24,12 +24,15 @@ p {
 }
 
 .box {
-    width:400px;
-    color: black;
-    position:fixed;
-    position:absolute;
+    width:800px;
+    padding:30px;
+    position: absolute;
+    top:50%;
+    left:75%;
+    transform: translate(-50%,-50%);
+    background:rgba(0, 0, 0, 0.4);
+    text-align: center;
 }
-
 
 body{
     display:flex;
