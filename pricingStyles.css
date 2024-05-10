@@ -5,11 +5,11 @@ body {
 .myContainer div {
     width:33%;  
     float:left;
+    max-height: 100px;
 }
 
 .myContainer {
     width:100%;
-    max-height: 100px;
     overflow:auto;
     margin-top: 100px;
 }
