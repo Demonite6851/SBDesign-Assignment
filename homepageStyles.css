@@ -25,11 +25,11 @@ p {
 }
 
 .box {
-    width:800px;
+    width:500px;
     padding:30px;
     position: absolute;
     top:0%;
-    left:75%;
+    left:0%;
     transform: translate(-50%,-50%);
     background:rgba(0, 0, 0, 0.4);
     text-align: center;
