@@ -25,7 +25,8 @@ p {
 
 .box {
     width:400px;
-    color:black;
+    color: black;
+    position:fixed;
     position:absolute;
 }
 
