@@ -2,12 +2,12 @@ body {
     background-color: grey;
 }
 
-.mycontainer div {
+.myContainer div {
     width:33%;  
     float:left;
 }
 
-.mycontainer {
+.myContainer {
     width:100%;
     overflow:auto;
 }
