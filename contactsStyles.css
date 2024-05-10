@@ -1,9 +1,3 @@
-.box {
-    width:400px;
-    color:black;
-    position:absolute;
-}
-
 
 .navbar a::after{
     color:white;
@@ -21,4 +15,15 @@
     background-color: black;
     font-size: 1.1em;
     margin-left: 20px;
+}
+
+.box {
+    width:500px;
+    padding:30px;
+    position: absolute;
+    top:2%;
+    left:15%;
+    transform: translate(-50%,-50%);
+    background:rgba(0, 0, 0, 0.4);
+    text-align: center;
 }
