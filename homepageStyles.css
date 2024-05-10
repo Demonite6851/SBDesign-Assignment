@@ -5,6 +5,7 @@ p {
     border-color: black;
     max-height: 200px;
     min-width: 300px;
+    margin-top: 200px;
 }
 
 .navbar a::after{
