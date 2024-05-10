@@ -3,7 +3,6 @@ p {
     background-color: whitesmoke;
     border-style: groove;
     border-color: black;
-    max-height: fit-content;
 }
 
 .navbar a::after{
