@@ -46,7 +46,8 @@ img {
 
 }
 
-body {
+body h1{
     justify-content: center;
+    align-self: center;
     
 }
