@@ -28,7 +28,7 @@ p {
     width:500px;
     padding:30px;
     position: absolute;
-    top:0%;
+    top:2%;
     left:10%;
     transform: translate(-50%,-50%);
     background:rgba(0, 0, 0, 0.4);
