@@ -4,7 +4,7 @@ p {
     border-style: groove;
     border-color: black;
     max-height: 200px;
-    min-width: 600px;
+    min-width: 300px;
 }
 
 .navbar a::after{
