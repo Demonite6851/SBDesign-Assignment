@@ -34,4 +34,5 @@ body{
     background:url('background.jpg') no-repeat;
     background-position:center;
     background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
 }
