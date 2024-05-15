@@ -1,8 +1,10 @@
 .myContainer div {
-    width:31.1%;  
-    min-height: 370px;
+    width:30.7%;  
+    min-height: 350px;
     padding: 20px;
     float: left;
+    border-color: black;
+    border-style: ridge;
 }
 
 .myContainer {
