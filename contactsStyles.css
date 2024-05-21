@@ -44,4 +44,6 @@ div {
     max-width: 650px;
     max-height: 450px;
     padding: 15px;
+    border-color: black;
+    border-style: ridge;
 }
