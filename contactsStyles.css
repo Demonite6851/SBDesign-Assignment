@@ -37,7 +37,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
-li{
+p{
+    margin-top: 300px;
     align-self: center;
-    background-color: slategray;
 }
