@@ -38,6 +38,5 @@ body{
 }
 
 p{
-    margin-top: 300px;
-    align-self: center;
+    align-content: center;
 }
