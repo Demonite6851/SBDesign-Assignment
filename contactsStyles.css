@@ -39,8 +39,9 @@ body{
 
 div {
     align-content: center;
+    margin-top: 200px;
     background-color: slategray;
-    max-width: fit-content;
-    max-height: fit-content;
+    max-width: 650px;
+    max-height: 450px;
     padding: 15px;
 }
