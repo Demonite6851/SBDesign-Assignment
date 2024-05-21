@@ -41,5 +41,6 @@ div {
     align-content: center;
     background-color: slategray;
     max-width: fit-content;
-    transform:translateX(500px)
+    max-height: fit-content;
+    padding: 15px;
 }
