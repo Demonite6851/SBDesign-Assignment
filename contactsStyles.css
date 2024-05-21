@@ -37,6 +37,8 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
-p{
+div {
     align-content: center;
+    background-color: slategray;
+    max-width: fit-content;
 }
