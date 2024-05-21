@@ -1,14 +1,17 @@
 .myContainer div {
-    width:33%;  
-    float:left;
-    max-height: 100px;
+    width:30.7%;  
+    min-height: 350px;
+    padding: 20px;
+    float: left;
+    border-color: black;
+    border-style: ridge;
 }
 
 .myContainer {
     width:100%;
     overflow:auto;
     margin-top: 100px;
-    text-align: center;
+    text-align: left;
 }
 
 .navbar {
@@ -50,4 +53,5 @@ body{
     background:url('background.jpg') no-repeat;
     background-position:center;
     background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
 }

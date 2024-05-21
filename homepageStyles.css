@@ -44,16 +44,17 @@ body{
     background:url('background.jpg') no-repeat;
     background-position:center;
     background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 img {
-    border:none;
-    width:300px;
-    height:300px;
-    align-self: center;
-    margin-right: 800px;
-    margin-left: 0px;
-    margin-bottom: 200px;
+    border: double;
+    border-color: black;
+    width: 500px;
+    height: 500px;
+    align-content: center;
+    margin-left: 450px;
+    z-index: -1;
 
 }
 
